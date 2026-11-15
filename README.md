@@ -24,6 +24,7 @@ Skills & Tools
 - Privilege Escalation: Linux, Cron Jobs
 - Operating Systems: Linux / Kali Linux
 
+
 My Learning Objectives
 
 - Improve network and service enumeration skills.
