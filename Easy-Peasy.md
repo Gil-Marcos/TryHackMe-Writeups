@@ -1,6 +1,6 @@
 TryHackMe — Easy Peasy
 
-<details>
+<details> 
 <summary>Challenge Information</summary>Field| Details
 Platform| TryHackMe
 Room| Easy Peasy
